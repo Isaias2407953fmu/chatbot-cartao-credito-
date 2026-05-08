@@ -4,5 +4,5 @@ git init
 git add .
 git commit -m "Primeira versão do chatbot Flask"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/chatbot-cartao-credito.git
+git remote add origin https://github.com/Isaias2407953fmu/chatbot-cartao-credito.git
 git push -u origin main
