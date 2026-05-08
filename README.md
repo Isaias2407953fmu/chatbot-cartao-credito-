@@ -8,7 +8,7 @@ git branch -M main
 git remote add origin https://github.com/Isaias2407953fmu/chatbot-cartao-credito.git
 git push -u origin main
 
-# Chatbot Cartão de Crédito
+# ChatBot Cartão de Crédito
 
 Chatbot em Flask que usa Naive Bayes pra classificar dúvidas sobre cartão.
 
