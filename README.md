@@ -1,4 +1,4 @@
-# chat-bot-cartao-credito-
+# chatbot-cartao-credito-
 APS - IAAM
 
 git init
